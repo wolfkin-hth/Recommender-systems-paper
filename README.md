@@ -17,3 +17,7 @@ Meta-graph based recommendation fusion over heterogeneous information networks
 Graph Convolutional Matrix Completion
 
 * GC-MC，[阅读笔记](https://zhuanlan.zhihu.com/p/86817553)
+
+STAR-GCN Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems
+
+* STAR-GCN，[阅读笔记](https://zhuanlan.zhihu.com/p/88606569)
