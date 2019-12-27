@@ -18,6 +18,10 @@ Graph Convolutional Matrix Completion
 
 * GC-MC，[阅读笔记](https://zhuanlan.zhihu.com/p/86817553)
 
-STAR-GCN Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems
+STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems
 
 * STAR-GCN，[阅读笔记](https://zhuanlan.zhihu.com/p/88606569)
+
+Graph Neural Networks for Social Recommendation
+
+* GraphRec，[阅读笔记](https://zhuanlan.zhihu.com/p/99817949)
