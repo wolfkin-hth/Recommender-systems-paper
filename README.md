@@ -22,6 +22,14 @@ STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender
 
 * STAR-GCN，[阅读笔记](https://zhuanlan.zhihu.com/p/88606569)
 
-Graph Neural Networks for Social Recommendation
+Social Recommendation  [阅读笔记](https://zhuanlan.zhihu.com/p/121650357)
 
-* GraphRec，[阅读笔记](https://zhuanlan.zhihu.com/p/99817949)
+* Graph Neural Networks for Social Recommendation
+  * GraphRec，[阅读笔记](https://zhuanlan.zhihu.com/p/99817949)
+
+* A Neural Influence Diffusion Model for Social Recommendation
+  * DiffNet,  [阅读笔记](https://zhuanlan.zhihu.com/p/121650357)
+* SocialMF 
+* SoRec
+* TrustSVD
+
